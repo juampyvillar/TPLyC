@@ -1,0 +1,41 @@
+DIM <x,y,a,cadena> AS <Int,Int,Int,String>
+
+*/Asignaciones/*
+a=b;
+a=c*7;
+
+id1 := id2 * cte1 + cte2;
+
+*/Selecciones/*
+If(a>b) {
+  var2=30
+}
+
+
+If(a<=b*3){
+  var1=a;
+}
+else {
+var1=b;
+}
+
+*/Impresiones/*
+Display "Lenguajes y Compiladores";
+Display cadena
+
+
+*/Temas especiales/*
+
+long([a,b,10])
+long([a])
+
+IF EQUMAX(var; [100, 111, var1] ) {
+    maximo=var;
+  }
+
+IF EQUMIN(var; [100, 111, var1] ) {
+    minimo=var;
+  }
+
+
+
